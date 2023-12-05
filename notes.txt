@@ -1,0 +1,9 @@
+
+*** still two problems
+1. gene.bed is really just genes with pairs--- we need it to be all genes
+2. when I run all tissues I skip umbilcal cord. Its got a space which screws with  my code. 
+
+**** to run
+1. Download the file from GWAS catalog
+2. edited GWAStogenes_alltissues.sh and run it 
+3. run hypothesis_viewer_all_tissues.ipynb 
